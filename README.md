@@ -6,6 +6,8 @@ Run the following command to install the libraries using the command line: <br/>
 `pip install flask` <br/>
 `pip install Chatterbot`<br/>
 `pip install chatterbot_corpus` <br/>
+> May you need to install Virtual Environment
+> `pip install VirtualEnv`
 ## Prerequisite <br/>
 Python 3.x <br/>
 Chatterbot 1.0.8 <br/>
